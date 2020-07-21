@@ -16,6 +16,9 @@
                 <a class="nav-link" href="produForm.php">Adiciona Produto <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="produto_lista.php">Lista de Produtos</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link" href="#">Sobre</a>
             </li>
             </ul>

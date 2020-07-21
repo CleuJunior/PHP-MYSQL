@@ -1,5 +1,5 @@
 <?php include 'cabecalho.php' ?>
-        <h1>Formulario de produto</h1>
+        <h1>Formulário de produto</h1>
 <form action="addProd.php" method="get">
     <table class="table">
         <tr>
